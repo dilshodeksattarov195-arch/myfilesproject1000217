@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereync",
+        "uuid": 1187207,
+        "checksum": "dgfa9j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
